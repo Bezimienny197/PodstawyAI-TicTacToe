@@ -1,8 +1,3 @@
-﻿  GameSprites.cpp
-C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\GameSprites.cpp(19): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-  main.cpp
-C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\main.cpp(26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\main.cpp(28): warning C4101: "m": lokalna zmienna, do której nie istnieje odwołanie
-C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\main.cpp(28): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
-  Generowanie kodu...
+﻿  main.cpp
+C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\main.cpp(28): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
   TicTacToe.vcxproj -> C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\x64\Debug\TicTacToe.exe

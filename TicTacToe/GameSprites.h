@@ -12,6 +12,7 @@ public:
 	bool loadCells(const std::string texture, int border, int size, int space);
 	void refresh();
 	Sprite getSpriteByIndex(int x, int y);
+	bool spriteContains(int m, int n, int x, int y);
 	void draw(RenderWindow& target);
 	virtual void draw(sf::RenderTarget& target, sf::RenderStates states) const;
 	~GameSprites();

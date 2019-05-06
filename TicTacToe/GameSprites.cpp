@@ -35,6 +35,11 @@ Sprite GameSprites::getSpriteByIndex(int x, int y) {
 	return f[x][y];
 }
 
+/* Sprawdzanie czy wspó³rzêdne x i y zawieraj¹ siê w obrêbie sprayt'a */
+bool GameSprites::spriteContains(int m, int n, int x, int y) {
+	return getSpriteByIndex(m, n).getGlobalBounds().contains(x, y);
+}
+
 void GameSprites::draw(RenderWindow& target) {
 	for (int i = 0; i < 3; i++)
 		for (int j = 0; j < 3; j++) {
