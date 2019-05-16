@@ -1,0 +1,6 @@
+﻿  AI.cpp
+C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\AI.cpp(232): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  main.cpp
+C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\main.cpp(85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  TicTacToe.vcxproj -> C:\Users\osze2\Documents\Informatyka\Uniwersytet Rzeszowski\Podstawy sztucznej inteligencj\TicTacToe\TicTacToe\Debug\TicTacToe.exe

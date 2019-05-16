@@ -83,6 +83,10 @@ bool GameLogic::isEndOfMatch() {
 	return endOfMatch;
 }
 
+int GameLogic::howCellsLeft() {
+	return cellsLeft;
+}
+
 int GameLogic::whoWin() {
 	
 	if (getElementByIndex(1, 1) != 0 && (

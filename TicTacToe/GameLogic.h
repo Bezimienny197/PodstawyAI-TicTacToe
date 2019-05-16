@@ -11,6 +11,7 @@ public:
 	bool isXTour();									// Czy to tura krzy¿yka
 	bool isOTour();									// Czy to tura kó³ka
 	bool isEndOfMatch();							// Czy to ju¿ koniec meczu
+	int howCellsLeft();								// Ile komórek pozosta³o jeszcze pustych
 	int whoWin();										// Zwraca 0 - jeœli nikt jeszcze nie wygra³, 1 - jeœli wygra³o kó³ko, 2 - jeœli wygra³ krzy¿yk
 	~GameLogic();
 private:
